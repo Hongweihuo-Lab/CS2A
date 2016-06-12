@@ -1,6 +1,5 @@
 # CS2A
-CS2A is a space-efficient Compressed Suffix Array-based method for short read Alignment whose space achieves
-
+CS2A is a space-efficient Compressed Suffix Array-based method for short read Alignment whose space achieves      
 the high-order empirical entropy of the input string.
 
 ## Contributors
