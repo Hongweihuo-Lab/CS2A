@@ -4,8 +4,8 @@ the high-order empirical entropy of the input string.
 
 ## Contributors
 ### Code
-   •	Shuangjiang Li (李双江)    
-   •	Zhigang Sun (孙志刚)   
+   •	Shuangjiang Li （李双江）    
+   •	Zhigang Sun （孙志刚）   
    •	Longgang Chen （陈龙刚）   
 
 ###Paper
