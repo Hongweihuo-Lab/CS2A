@@ -6,9 +6,6 @@ the high-order empirical entropy of the input string.
 ### Code
    •	Shuangjiang Li （李双江）    
    •	Zhigang Sun （孙志刚）   
-   •	Longgang Chen （陈龙刚）   
 
-###Paper
-It is the implementation of the paper.
-
-Hongwei Huo, Zhigang Sun, Shuangjiang Li, Jeffrey Scott Vitter, Xinkun Wang, Qiang Yu, and Jun Huan, CS2A: a compressed suffix array-based method for short read alignment, Proceedings of the IEEE Data Compression Conference (DCC), Snowbird, USA, March 29 – April 1, 2016. 271–278.
+### Paper
+H. Huo, Z. Sun, S. Li, J. S. Vitter, et al., CS2A: a compressed suffix array-based method for short read alignment, Proceedings of the IEEE Data Compression Conference (DCC), Snowbird, USA, March 29 – April 1, 2016. 271–278.
